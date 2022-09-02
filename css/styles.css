@@ -1,0 +1,26 @@
+body {
+  background-color: #7FB77E;
+}
+div {
+  margin-bottom: 2rem;
+}
+h1, h2, h3, p {
+  color: #FFC090;
+  margin: 2rem 0;
+}
+p {
+  font-size: 1rem;
+}
+img {
+  border-radius: 1rem;
+}
+.list-group {
+  font-size: 1.2rem;
+}
+.list-group-item {
+  background-color: #F7F6DC;
+}
+.ol-item {
+  list-style: decimal inside;
+  display: list-item;
+}
