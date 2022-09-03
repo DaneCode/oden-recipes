@@ -11,7 +11,7 @@ h1, h2, h3, p {
 p {
   font-size: 1rem;
 }
-img {
+.img-round {
   border-radius: 1rem;
 }
 .list-group {
@@ -23,4 +23,12 @@ img {
 .ol-item {
   list-style: decimal inside;
   display: list-item;
+}
+.title {
+  position: absolute;
+  z-index: 2;
+  left: 25%;
+  Top: 30%;
+  font-size: 8vw;
+  text-shadow: 2px 2px 4px #000000;
 }
